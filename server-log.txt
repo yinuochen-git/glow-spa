@@ -1,0 +1,5 @@
+14:00:42 === server started at http://10.0.30.138:8000/ ===
+14:00:43 10.0.30.138 GET /qr.html
+14:11:18 addresses: wifi 10.0.30.138 (en0), default route 10.0.30.138, all: lo0=127.0.0.1 en0=10.0.30.138
+14:11:18 === server started at http://10.0.30.138:8000/ ===
+14:11:19 10.0.30.138 GET /qr.html
